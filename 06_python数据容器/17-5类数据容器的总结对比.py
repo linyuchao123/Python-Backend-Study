@@ -1,9 +1,9 @@
 """
-Python五大数据容器分类总结：列表list
-                        元组tuple
-                        字符串str
-                        集合set
-                        字典dict
+Python五大数据容器分类总结：列表list  [1，2，3，“abc”]
+                        元组tuple  (1，2，3，“abc”)
+                        字符串str  "hello"  'python'
+                        集合set  {1,3,5}  空集合：set()
+                        字典dict  {key,value}
 
 分类维度1：是否支持下标索引
 ✅ 支持下标（序列类型）：列表、元组、字符串
