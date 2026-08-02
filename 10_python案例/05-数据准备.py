@@ -16,3 +16,4 @@ trend_data = us_dict["data"][0]["trend"]
 x_data = trend_data['updateDate']
 
 y_data = trend_data['list'][0]['data'][:314]
+
